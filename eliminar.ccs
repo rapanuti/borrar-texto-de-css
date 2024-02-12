@@ -1,0 +1,10 @@
+.RapaText{
+  text-indent:-999px;
+}
+
+.RapaText{
+  font: 0/0 a;
+  text-shadow: transparent;
+  color: transparent;
+  text-decoration: none;
+}
